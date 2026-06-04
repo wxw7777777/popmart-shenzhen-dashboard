@@ -2,6 +2,7 @@
 *.png
 *.html
 !outputs/*.html
+!index.html
 
 # Auth credentials (contains passwords/sessions)
 mingdao_auth*.json
